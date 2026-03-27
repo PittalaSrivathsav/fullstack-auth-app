@@ -50,7 +50,7 @@ npm start
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](frontend/src/public/login.png)
+![Login](frontend/public/login.png)
 
 ### 📊 Dashboard
 ![Dashboard](public/dashboard.png)
