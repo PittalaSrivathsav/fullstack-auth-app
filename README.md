@@ -53,7 +53,7 @@ npm start
 ![Login](frontend/public/login.png)
 
 ### 📊 Dashboard
-![Dashboard](public/dashboard.png)
+![Dashboard](frontend/public/dashboard.png)
 ## 👨‍💻 Author
 
 Srivathsav Pittala
