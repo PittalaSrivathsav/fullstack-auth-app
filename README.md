@@ -47,7 +47,13 @@ npm start
 * POST /create-teacher
 * GET /users
 * GET /teachers
+## 📸 Screenshots
 
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
 ## 👨‍💻 Author
 
 Srivathsav Pittala
